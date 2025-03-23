@@ -9,6 +9,30 @@
 
 ![Customer Churn](https://github.com/Abishek1452/Customer_Churn1/blob/main/Dashboards/Customer_Churn_Dashboard.jpeg?raw=true)
 
+## Need for Models:
+
+Predicting customer churn in advance enables businesses to take proactive measures to retain their customers before they leave.
+
+Calculating a company's churn rate offers valuable insight into customer retention, serving as an indicator of both the quality of service provided and the overall value the business delivers.
+
+## 🔍 Overview:
+
+| Machine Learning Models Applied            | Accuracy |
+| ----------------- | ------------------------------------------------------------------ |
+| Random Forest | 79.18% |
+| Logistic Regression | 79.27% |
+| Naive Bayes Gaussian | 37.45% |
+| Decision Tree | 79.54% |
+| XGB_Classifier | 82.86% |
+
+## 📸 Sample Models & Analysis Images:
+
+![Image 1](https://github.com/Abishek1452/Customer_Churn1/blob/main/Analysis%20&%20Models/Analysis_Preview1.png?raw=true)
+
+![Image 2](https://github.com/Abishek1452/Customer_Churn1/blob/main/Analysis%20&%20Models/Analysis_Preview2.png?raw=true)
+
+![Image 3](https://github.com/Abishek1452/Customer_Churn1/blob/main/Analysis%20&%20Models/Models_sample.png?raw=true)
+
 ## Key Insights:
 📌Last month, 27% of customers discontinued their service. Out of a total of 7,043 customers, 1,869 chose to leave the company.
 
@@ -28,4 +52,6 @@
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
 
 ![Customer Risk Analysis](https://github.com/Abishek1452/Customer_Churn1/blob/main/Dashboards/Customer_Risk_Analysis.jpeg?raw=true)
+
+
 
