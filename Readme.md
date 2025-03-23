@@ -1,6 +1,6 @@
-# **Customer Churn Analysis in Power BI**
+# **Customer Churn Analysis and Model Prediction**
 
-## I have used Excel and PowerBI for this Customer Churn Porject.
+## I have used Excel, PowerBI, Python and built Machine Learning Models for this Customer Churn Porject.
 
 ## **Key Features:**
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
