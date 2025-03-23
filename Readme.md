@@ -7,7 +7,7 @@
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
 
-![Customer Churn](C:\Users\abish\OneDrive\Documents\GitHub\Customer_Churn1\Dashboards\Customer_Churn_Dashboard.jpeg)
+![Customer Churn](https://github.com/Abishek1452/Customer_Churn1/blob/main/Dashboards/Customer_Churn_Dashboard.jpeg?raw=true)
 
 ## Key Insights:
 📌Last month, 27% of customers discontinued their service. Out of a total of 7,043 customers, 1,869 chose to leave the company.
@@ -27,5 +27,5 @@
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
 
-![Customer Risk Analysis](C:\Users\abish\OneDrive\Documents\GitHub\Customer_Churn1\Dashboards\Customer_Risk_Analysis.jpeg)
+![Customer Risk Analysis](https://github.com/Abishek1452/Customer_Churn1/blob/main/Dashboards/Customer_Risk_Analysis.jpeg?raw=true)
 
