@@ -3,6 +3,9 @@
 ## I have used Excel, PowerBI, Python and built Machine Learning Models for this Customer Churn Porject.
 
 ## **Key Features:**
+
+![Customers](https://github.com/Abishek1452/Customer_Churn1/blob/main/Analysis%20&%20Models/customers.webp?raw=true)
+
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
